@@ -9,6 +9,8 @@ x11-xserver-utils
 libx11-dev
 libxft-dev
 libxinerama-dev
+libxcb-res0-dev
+libx11-xcb-dev
 pipewire
 syncthing
 

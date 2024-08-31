@@ -37,3 +37,9 @@
 16:10:41.648549 version@stat F·[2 1] S·21KiB[21KiB 207B] Sc·[0.50 0.00]
 16:10:41.651528 db@janitor F·5 G·0
 16:10:41.651545 db@open done T·5.97695ms
+16:33:43.020660 table@compaction L0·2 -> L1·1 S·21KiB Q·799
+16:33:43.022359 table@build created L1@11 N·69 S·3KiB "\x00\x00\x00..dbx,v705":"\x0f\xd5\"..\xc9\xfa{,v582"
+16:33:43.022424 version@stat F·[0 1] S·3KiB[0B 3KiB] Sc·[0.00 0.00]
+16:33:43.023183 table@compaction committed F-2 S-18KiB Ke·0 D·654 T·2.474133ms
+16:33:43.023351 table@remove removed @5
+16:33:43.023435 table@remove removed @4
