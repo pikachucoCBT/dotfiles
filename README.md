@@ -21,3 +21,5 @@ firefox
 keepassxc
 git
 stow
+yt-dlp
+mpv
