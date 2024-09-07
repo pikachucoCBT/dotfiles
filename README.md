@@ -12,14 +12,19 @@ libxinerama-dev
 libxcb-res0-dev
 libx11-xcb-dev
 pipewire
-syncthing
+rxvt-unicode
+vim-gtk3
+
 
 Nix pkgs:
-neovim
-rxvt-unicode
 firefox
 keepassxc
 git
 stow
 yt-dlp
 mpv
+unzip
+pamixer
+neofetch
+mpv
+imagemagick
