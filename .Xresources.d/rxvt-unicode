@@ -3,10 +3,10 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 !! Appearance
-URxvt.font:            xft:DinaRemaster:antialias=true:size=12:style=Regular,xft:FiraCode:size=6
-URxvt.boldFont:        xft:DinaRemaster:antialias=true:size=12:style=Bold
-URxvt.italicFont:      xft:DinaRemaster:antialias=true:size=12:style=Italic
-URxvt.boldItalicfont:  xft:DinaRemaster:antialias=true:size=12:style=Bold Italic
+URxvt.font:            xft:DinaRemaster:antialias=true:size=12:style=Regular, xft:FiraCode:size=6
+URxvt.boldFont:        xft:DinaRemaster:antialias=true:size=12:style=Bold ,xft:FiraCode:size=6
+URxvt.italicFont:      xft:DinaRemaster:antialias=true:size=12:style=Italic ,xft:FiraCode:size=6
+URxvt.boldItalicfont:  xft:DinaRemaster:antialias=true:size=12:style=Bold Italic ,xft:FiraCode:size=6
 URxvt.letterSpace:     -1
 URxvt.lineSpace:       -1
 URxvt.geometry:        80x24
