@@ -1,13 +1,13 @@
-!!DWM COLORS
-
 dwm.font: DinaRemaster:pixelsize=15          
 dwm.dmenufont: DinaRemaster:pixelsize=15       
-dwm.normbgcolor: colorscheme_background
-dwm.normbordercolor: colorscheme_color0
-dwm.normfgcolor: colorscheme_foreground_alt1
-dwm.selbgcolor: colorscheme_background
-dwm.selbordercolor: colorscheme_foreground_alt1
-dwm.selfgcolor: colorscheme_foreground
+
+dwm.normbgcolor: Background
+dwm.normbordercolor: Color0
+dwm.normfgcolor: Foreground
+dwm.selbgcolor: Background
+dwm.selbordercolor: Color8
+dwm.selfgcolor: Foreground
+
 dwm.borderpx: 4          	
 dwm.snap: 32         	
 dwm.showbar: 1         	

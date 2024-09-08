@@ -1,17 +1,15 @@
 #!/bin/sh
 
-#[[ -f ~/.Xmodmap ]] && xmodmap ~/.Xmodmap 
-#[[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources
-xrdb -merge ~/.Xresources
+[[ -f ~/.Xmodmap ]] && xmodmap ~/.Xmodmap  
+xrdb -merge ~/.Xresources && xrdbpid=$!
 
-setbg &
+# Confirmar que xrdb acabou antes de iniciar o DWM
+[ -n "$xrdbpid" ] && wait "$xrdbpid"
 
-while xsetroot -name "`date` `uptime | sed 's/.*,//'`"
-do
-     sleep 1
-done &
+setbg 
 
 while true; do
     # Log do stderror para um arquivo
     dwm 2> ~/.dwm.log
 done
+
