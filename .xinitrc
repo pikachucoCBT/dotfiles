@@ -7,9 +7,7 @@ xrdb -merge ~/.Xresources && xrdbpid=$!
 [ -n "$xrdbpid" ] && wait "$xrdbpid"
 
 setbg 
+dwmblocks &
 
-while true; do
-    # Log do stderror para um arquivo
-    dwm 2> ~/.dwm.log
-done
+exec dwm
 
