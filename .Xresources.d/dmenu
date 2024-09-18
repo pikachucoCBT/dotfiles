@@ -1,0 +1,6 @@
+dmenu.font : DinaRemaster
+dmenu.background : Background
+dmenu.foreground : Foreground
+dmenu.selbackground : Foreground
+dmenu.selforeground : Background
+

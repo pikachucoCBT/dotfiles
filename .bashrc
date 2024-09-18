@@ -19,6 +19,8 @@ shopt -s checkwinsize # Checa o tamanho da janela cada commando e, se necessario
 
 shopt -s autocd # Permite que você mude para um diretório apenas digitando 
 
+set -o vi # Modo Vim
+
 # Cores para ls e outros programas
 if [ -x /usr/bin/dircolors ]; then
     test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"

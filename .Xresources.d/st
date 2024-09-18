@@ -42,3 +42,5 @@
 *.colorBD:     ColorBD
 !*.colorIT:
 !*.colorUL:
+
+!*.alpha: 0.7

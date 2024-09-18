@@ -8,7 +8,7 @@
 !
 ! Black
 #define Color0      #000000
-#define Color8      #3b404a
+#define Color8      #1e232a
 !
 ! Red
 #define Color1      #ff3333
@@ -36,7 +36,7 @@
 !
 ! White
 #define Color7      #ffffff
-#define Color15     #ffffff
+#define Color15     #636975
 !
 ! Bold, Italic, Underline
 #define ColorBD     #e6e1cf
