@@ -14,17 +14,4 @@ libx11-xcb-dev
 pipewire
 rxvt-unicode
 vim-gtk3
-
-
-Nix pkgs:
-firefox
-keepassxc
-git
-stow
-yt-dlp
-mpv
-unzip
-pamixer
-neofetch
-mpv
-imagemagick
+nsxiv
