@@ -1,27 +1,10 @@
 --- dwm.c
 +++ dwm.c
-@@ -1287,6 +1316,16 @@ propertynotify(XEvent *e)
- void
- quit(const Arg *arg)
- {
-+	size_t i;
-+
-+	/* kill child processes */
-+	for (i = 0; i < autostart_len; i++) {
-+		if (0 < autostart_pids[i]) {
-+			kill(autostart_pids[i], SIGTERM);
-+			waitpid(autostart_pids[i], NULL, 0);
-+		}
-+	}
-+
- 	running = 0;
- }
- 
-@@ -2196,6 +2250,7 @@ main(int argc, char *argv[])
- 	if (!(dpy = XOpenDisplay(NULL)))
- 		die("dwm: cannot open display");
- 	checkotherwm();
-+	autostart_exec();
- 	setup();
- #ifdef __OpenBSD__
- 	if (pledge("stdio rpath proc exec", NULL) == -1)
+@@ -207,6 +208,7 @@ static void setup(void);
+ static void seturgent(Client *c, int urg);
+ static void showhide(Client *c);
+ static void sigchld(int unused);
++static void sigstatusbar(const Arg *arg);
+ static void spawn(const Arg *arg);
+ static void tag(const Arg *arg);
+ static void tagmon(const Arg *arg);
