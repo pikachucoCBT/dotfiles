@@ -41,6 +41,11 @@ static const char *const autostart[] = {
 /* tagging */
 static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
 
+static const unsigned int ulinepad	= 5;	/* horizontal padding between the underline and tag */
+static const unsigned int ulinestroke	= 2;	/* thickness / height of the underline */
+static const unsigned int ulinevoffset	= 0;	/* how far above the bottom of the bar the line should appear */
+static const int ulineall 		= 0;	/* 1 to show underline on all tags, 0 for just the active ones */
+
 static const Rule rules[] = {
 	/* xprop(1):
 	 *	WM_CLASS(STRING) = instance, class
@@ -90,6 +95,7 @@ static const Key keys[] = {
 	/* modifier                     key        function        argument */
 	{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
 	{ MODKEY|ShiftMask,             XK_Return, spawn,          {.v = termcmd } },
+	{ MODKEY,                       XK_w,      spawn,          SHCMD("firefox") },
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
 	{ MODKEY,                       XK_j,      focusstack,     {.i = +1 } },
 	{ MODKEY,                       XK_k,      focusstack,     {.i = -1 } },
@@ -117,18 +123,18 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_minus,  setgaps,        {.i = -1 } },
 	{ MODKEY,                       XK_equal,  setgaps,        {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_equal,  setgaps,        {.i = 0  } },
-	{ 0, XF86XK_AudioMute,                         spawn,                  SHCMD("wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle; kill -44 $(pidof dwmblocks)") },
-	{ 0, XF86XK_AudioRaiseVolume,                  spawn,                  SHCMD("wpctl set-volume @DEFAULT_AUDIO_SINK@ 0%- && wpctl set-volume @DEFAULT_AUDIO_SINK@ 3%+; kill -44 $(pidof dwmblocks)") },
-	{ 0, XF86XK_AudioLowerVolume,                  spawn,                  SHCMD("wpctl set-volume @DEFAULT_AUDIO_SINK@ 0%+ && wpctl set-volume @DEFAULT_AUDIO_SINK@ 3%-; kill -44 $(pidof dwmblocks)") },
-	{ 0, XF86XK_AudioPrev,                         spawn,                  {.v = (const char*[]){ "mpc", "prev", NULL } } },
-	{ 0, XF86XK_AudioNext,                         spawn,                  {.v = (const char*[]){ "mpc",  "next", NULL } } },
-	{ 0, XF86XK_AudioPause,                        spawn,                  {.v = (const char*[]){ "mpc", "pause", NULL } } },
-	{ 0, XF86XK_AudioPlay,                         spawn,                  {.v = (const char*[]){ "mpc", "play", NULL } } },
-	{ 0, XF86XK_AudioStop,                         spawn,                  {.v = (const char*[]){ "mpc", "stop", NULL } } },
-	{ 0, XF86XK_AudioRewind,                       spawn,                  {.v = (const char*[]){ "mpc", "seek", "-10", NULL } } },
-	{ 0, XF86XK_AudioForward,                      spawn,                  {.v = (const char*[]){ "mpc", "seek", "+10", NULL } } },
-	{ 0, XF86XK_AudioMedia,                        spawn,                  {.v = (const char*[]){ TERMINAL, "-e", "ncmpcpp", NULL } } },
-	//{ 0, XF86XK_AudioMicMute,                      spawn,                  SHCMD("pactl set-source-mute @DEFAULT_SOURCE@ toggle") },
+	{ 0, XF86XK_AudioMute,          spawn,                  SHCMD("wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle; kill -44 $(pidof dwmblocks)") },
+	{ 0, XF86XK_AudioRaiseVolume,   spawn,                  SHCMD("wpctl set-volume @DEFAULT_AUDIO_SINK@ 0%- && wpctl set-volume @DEFAULT_AUDIO_SINK@ 3%+; kill -44 $(pidof dwmblocks)") },
+	{ 0, XF86XK_AudioLowerVolume,   spawn,                  SHCMD("wpctl set-volume @DEFAULT_AUDIO_SINK@ 0%+ && wpctl set-volume @DEFAULT_AUDIO_SINK@ 3%-; kill -44 $(pidof dwmblocks)") },
+	{ 0, XF86XK_AudioPrev,          spawn,                  {.v = (const char*[]){ "mpc", "prev", NULL } } },
+	{ 0, XF86XK_AudioNext,          spawn,                  {.v = (const char*[]){ "mpc",  "next", NULL } } },
+	{ 0, XF86XK_AudioPause,         spawn,                  {.v = (const char*[]){ "mpc", "pause", NULL } } },
+	{ 0, XF86XK_AudioPlay,          spawn,                  {.v = (const char*[]){ "mpc", "play", NULL } } },
+	{ 0, XF86XK_AudioStop,          spawn,                  {.v = (const char*[]){ "mpc", "stop", NULL } } },
+	{ 0, XF86XK_AudioRewind,        spawn,                  {.v = (const char*[]){ "mpc", "seek", "-10", NULL } } },
+	{ 0, XF86XK_AudioForward,       spawn,                  {.v = (const char*[]){ "mpc", "seek", "+10", NULL } } },
+	{ 0, XF86XK_AudioMedia,         spawn,                  {.v = (const char*[]){ TERMINAL, "-e", "ncmpcpp", NULL } } },
+	//{ 0, XF86XK_AudioMicMute,     spawn,                  SHCMD("pactl set-source-mute @DEFAULT_SOURCE@ toggle") },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)
