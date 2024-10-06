@@ -41,8 +41,8 @@ syntax on
 au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 
 " Copy to clipboard"
-vnoremap <C-c> "+y
-map <C-v> "+p
+vnoremap <C-y> "+y
+map <C-p> "+p
 
 " Uncomment the following to have Vim load indentation rules and plugins
 " according to the detected filetype.
