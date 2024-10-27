@@ -10,14 +10,14 @@ esac
 stty -ixon # Desativa ctrl-s e ctrl-q (usado para pausar o terminal) 
 
 # Histórico
-HISTCONTROL=ignoreboth # don't put duplicate lines or lines starting with space in the history. See bash(1) for more options
-shopt -s histappend # append to the history file, don't overwrite it
-HISTSIZE=1000     # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+HISTCONTROL=ignoreboth
+shopt -s histappend 
+HISTSIZE=1000
 HISTFILESIZE=2000 #
 
-shopt -s checkwinsize # Checa o tamanho da janela cada commando e, se necessario atualiza os valores de LINES e COLUMS
+shopt -s checkwinsize # Checa o tamanho da janela a cada commando e, se necessário, atualiza os valores de LINES e COLUMS
 
-shopt -s autocd # Permite que você mude para um diretório apenas digitando 
+shopt -s autocd # Permite que você mude para um diretório apenas digitando seu nome
 
 set -o vi # Modo Vim
 
