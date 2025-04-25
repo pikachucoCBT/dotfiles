@@ -1,0 +1,41 @@
+!!!!!!!!!!!!!!!!!!
+!!! ayu mirage !!!
+!!!!!!!!!!!!!!!!!!
+
+#define Foreground  #bfbab0
+#define Background  #1f2430
+#define CursorColor #ffcc66
+!
+! Black
+#define Color0      #1f2430
+#define Color8      #747b84
+! Red
+#define Color1      #ff3333 
+#define Color9      #ff6666
+!
+! Green
+#define Color2      #bae67e
+#define Color10     #cee6ac
+!
+! Yellow
+#define Color3      #ffd580
+#define Color11     #ffe6b3
+!
+! Blue
+#define Color4      #73d0ff
+#define Color12     #a6e1ff
+!
+! Magenta
+#define Color5      #f28779
+#define Color13     #ffd6da
+!
+! Cyan
+#define Color6      #95e6cb
+#define Color14     #ffffff
+!
+! White
+#define Color7     #ffffff
+#define Color15    #ffffff 
+!
+! Bold, Italic, Underline
+#define ColorBD    #e6e1cf 

@@ -1,0 +1,2 @@
+cp Matter to /boot/grub/themes;
+cp grub to /etc/default/grub

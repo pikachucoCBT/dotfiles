@@ -1,0 +1,19 @@
+dwm.normbgcolor: Background
+dwm.normbordercolor: Background
+dwm.normfgcolor: Foreground
+dwm.selbgcolor: Background
+dwm.selbordercolor: Foreground
+dwm.selfgcolor: Foreground
+
+!!!!!!!!!!!!
+!! Colors !!
+!!!!!!!!!!!!
+
+!Black:		Color0 Color8
+!Red:		Color1 Color9
+!Green		Color2 Color10
+!Yellow		Color3 Color11
+!Blue		Color4 Color12
+!Magenta	Color5 Color13
+!Cyan		Color6 Color14
+!White		Color7 Color15

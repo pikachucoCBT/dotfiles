@@ -1,0 +1,42 @@
+!!!!!!!!!!!!!!!!
+!!! ayu dark !!!
+!!!!!!!!!!!!!!!!
+
+#define Foreground  #e6e1cf
+#define Background  #0f1419
+#define CursorColor #f29718
+!
+! Black
+#define Color0      #000000
+#define Color8      #1e232a
+!
+! Red
+#define Color1      #ff3333
+#define Color9      #ff6565
+!
+! Green
+#define Color2      #b8cc52
+#define Color10     #eafe84
+!
+! Yellow
+#define Color3      #e7c547
+#define Color11     #fff779
+!
+! Blue
+#define Color4      #36a3d9
+#define Color12     #68d5ff
+!
+! Magenta
+#define Color5      #f07178
+#define Color13     #ffa3aa
+!
+! Cyan
+#define Color6      #95e6cb
+#define Color14     #c7fffd
+!
+! White
+#define Color7      #ffffff
+#define Color15     #636975
+!
+! Bold, Italic, Underline
+#define ColorBD     #e6e1cf

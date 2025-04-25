@@ -1,0 +1,46 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!! ^    ST COLORSCHEME    ^ !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+*.foreground:  Foreground
+*.background:  Background
+*.cursorColor: CursorColor
+!
+! Black
+*.color0:      Color0
+*.color8:      Color8
+!
+! Red
+*.color1:      Color1
+*.color9:      Color9
+!
+! Green
+*.color2:      Color2
+*.color10:     Color10
+!
+! Yellow
+*.color3:      Color3
+*.color11:     Color11
+!
+! Blue
+*.color4:      Color4
+*.color12:     Color12
+!
+! Magenta
+*.color5:      Color5
+*.color13:     Color13
+!
+! Cyan
+*.color6:      Color6
+*.color14:     Color14
+!
+! White
+*.color7:      Color7
+*.color15:     Color15
+!
+! Bold, Italic, Underline
+*.colorBD:     ColorBD
+!*.colorIT:
+!*.colorUL:
+
+!*.alpha: 0.7
