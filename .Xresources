@@ -2,3 +2,5 @@
 #include ".Xresources.d/dwm"
 #include ".Xresources.d/st"
 #include ".Xresources.d/dmenu"
+
+Xft.dpi: 120

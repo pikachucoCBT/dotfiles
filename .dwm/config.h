@@ -16,7 +16,7 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const int swallowfloating    = 0;        /* 1 means swallow floating windows by default */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "DinaRemaster:size=12" };
+static const char *fonts[]          = { "DinaRemaster:size=18" };
 static char normbgcolor[]           = "#222222";
 static char normbordercolor[]       = "#444444";
 static char normfgcolor[]           = "#bbbbbb";
@@ -138,7 +138,10 @@ static const Key keys[] = {
 	{ 0, XF86XK_AudioRewind,        spawn,                  {.v = (const char*[]){ "mpc", "seek", "-10", NULL } } },
 	{ 0, XF86XK_AudioForward,       spawn,                  {.v = (const char*[]){ "mpc", "seek", "+10", NULL } } },
 	{ 0, XF86XK_AudioMedia,         spawn,                  {.v = (const char*[]){ TERMINAL, "-e", "ncmpcpp", NULL } } },
-	//{ 0, XF86XK_AudioMicMute,     spawn,                  SHCMD("pactl set-source-mute @DEFAULT_SOURCE@ toggle") },
+	{ 0, XF86XK_MonBrightnessUp,    spawn,                  SHCMD("brightnessctl set +10%; kill -54 $(pidof dwmblocks)") },
+	{ 0, XF86XK_MonBrightnessDown,  spawn,                  SHCMD("brightnessctl set 10%-; kill -54 $(pidof dwmblocks)") },
+	//{ 0, XF86XK_AudioMicMute,       spawn,                  SHCMD("pactl set-source-mute @DEFAULT_SOURCE@ toggle") },
+	{ 0, XF86XK_AudioMicMute,       spawn,                  SHCMD("wpctl set-source-mute @DEFAULT_AUDIO_SOURCE@ 1") },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)
