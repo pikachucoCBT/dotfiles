@@ -35,6 +35,7 @@ static const char *const autostart[] = {
 	"setbg", NULL,
 	"dunst", NULL,
 	"picom", NULL,
+	"/home/tiago/.local/bin/connect_bt.sh", NULL,
 	"syncthing", "--no-browser", "--no-restart", "--logflags=0", NULL,
 	"/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1", NULL,
 	NULL /* terminate */
