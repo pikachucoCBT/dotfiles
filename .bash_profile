@@ -1,6 +1,6 @@
 # Programas default:
 export EDITOR="vim"
-export TERMINAL="scroll"
+export TERMINAL="st"
 export TERMINAL_PROG="scroll"
 export BROWSER="librewolf"
 export BT_DEVICE_MAC="84:AC:60:97:B3:24"

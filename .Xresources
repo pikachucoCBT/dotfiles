@@ -3,4 +3,4 @@
 #include ".Xresources.d/st"
 #include ".Xresources.d/dmenu"
 
-Xft.dpi: 120
+#Xft.dpi: 120
