@@ -10,7 +10,7 @@ debiant480
 # xserver-xorg-input-libinput libreoffice ttf-mscorefonts-installer
 
 NIX
-# kepassxc neofetch picom syncthing  ranger dunst nsxiv stow e sla oq
+# kepassxc neofetch picom syncthing  ranger ueberzugpp dunst nsxiv stow e sla oq
 
 Flatpak
 # zen_browser librewolf flatseal 
