@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/%5BNS4587%5D%20Gregory%20Mankiw%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20economia%20(0)%20-%20libgen.li.pdf" added="2025-09-12T00:22:45.797320Z" modified="2025-09-12T00:22:45.854865Z" visited="2025-09-12T00:22:45.797321Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-12T00:22:45.797325Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-12T00:22:45.854863Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/Livro/Cap1.pdf" added="2025-09-14T00:10:31.190393Z" modified="2025-09-14T00:10:31.243552Z" visited="2025-09-14T00:10:31.190395Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-14T00:10:31.190400Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-14T00:10:31.243550Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/Livro/Cap2.pdf" added="2025-09-14T00:14:46.835488Z" modified="2025-09-14T00:14:46.887687Z" visited="2025-09-14T00:14:46.835490Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-14T00:14:46.835498Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-14T00:14:46.887685Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/Livro/Cap3.pdf" added="2025-09-14T00:16:54.199237Z" modified="2025-09-14T00:16:54.253163Z" visited="2025-09-14T00:16:54.199238Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-14T00:16:54.199244Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-14T00:16:54.253161Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/Livro/Cap4.pdf" added="2025-09-14T00:38:17.236129Z" modified="2025-09-14T00:44:30.427592Z" visited="2025-09-14T00:38:17.236131Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-14T00:44:30.369757Z" count="3"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-14T00:44:30.427589Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

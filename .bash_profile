@@ -2,7 +2,9 @@
 export EDITOR="vim"
 export TERMINAL="st"
 export TERMINAL_PROG="scroll"
-export BROWSER="librewolf"
+export BROWSER="io.gitlab.librewolf-community"
+export zen="app.zen_browser.zen"
+export librewolf="io.gitlab.librewolf-community"
 export BT_DEVICE_MAC="84:AC:60:97:B3:24"
 
 # Adiciona todos diretórios em `~/.local/bin` para o $PATH
