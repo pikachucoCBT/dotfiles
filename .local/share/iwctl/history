@@ -1,0 +1,11 @@
+device list
+station wlan0 scan
+station wlan0 get-networks
+station wlan0 connect BNB_3º_Andar_Sul
+help
+station wlan0 get-networks
+help
+station wlan0 scan
+station wlan0 get-networks
+station wlan0 connect "moto g84"
+ping gnu.org

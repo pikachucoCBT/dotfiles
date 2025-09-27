@@ -7,7 +7,7 @@ debian-pc
 # mesa-utils vulkan-tools firmware-misc-nonfree lm-sensors inxi nvidia-driver nvidia-settings nvidia-vulkan-icd libvulkan-dev nvidia-kernel-dkms nvidia-cuda-toolkit vulkan-validationlayers
 
 debiant480
-# xserver-xorg-input-libinput libreoffice ttf-mscorefonts-installer
+# xserver-xorg-video-intel xserver-xorg-input-libinput libreoffice ttf-mscorefonts-installer
 
 NIX
 # kepassxc neofetch picom syncthing  ranger ueberzugpp dunst nsxiv stow zathura e sla oq

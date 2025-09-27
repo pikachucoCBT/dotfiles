@@ -12,4 +12,3 @@ esac
 #free --mebi | sed -n '2{p;q}' | awk '{printf ("🧠%2.2fGiB/%2.2fGiB\n", ( $3 / 1024), ($2 / 1024))}'
 
 free | awk '/^Mem/ { printf("🧠 MEM: %.0f %%\n", $3/$2 * 100.0) }'
-#free | awk '/^Mem/ { printf("  MEM: %.0f %%\n", $3/$2 * 100.0) }'

@@ -47,13 +47,187 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/Livro/Cap4.pdf" added="2025-09-14T00:38:17.236129Z" modified="2025-09-14T00:44:30.427592Z" visited="2025-09-14T00:38:17.236131Z">
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/Livro/Cap4.pdf" added="2025-09-14T00:38:17.236129Z" modified="2025-09-17T14:17:50.596781Z" visited="2025-09-14T00:38:17.236131Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-14T00:44:30.369757Z" count="3"/>
-          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-14T00:44:30.427589Z" count="3"/>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-17T14:17:50.545351Z" count="4"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-17T14:17:50.596778Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Imagens/Wallpapers/painting_4k_wallpaper.png" added="2025-09-15T14:21:57.717578Z" modified="2025-09-15T14:21:57.717595Z" visited="2025-09-15T14:21:57.717581Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-15T14:21:57.717587Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/Livro/Cap5.pdf" added="2025-09-17T12:13:06.733241Z" modified="2025-09-17T12:13:06.790952Z" visited="2025-09-17T12:13:06.733242Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:13:06.733248Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-17T12:13:06.790949Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/unidade1_estudos(2).pdf" added="2025-09-17T12:57:23.080565Z" modified="2025-09-17T12:57:23.128540Z" visited="2025-09-17T12:57:23.080567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:57:23.080572Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-17T12:57:23.128538Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/listas-de-exercicios/lista-1-editado-iemonit-gabarito-3(1).pdf" added="2025-09-17T12:57:36.329554Z" modified="2025-09-17T12:57:36.371251Z" visited="2025-09-17T12:57:36.329556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:57:36.329564Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-17T12:57:36.371248Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/unidade2_estudos.pdf" added="2025-09-17T14:27:53.670906Z" modified="2025-09-17T14:28:34.942609Z" visited="2025-09-17T14:27:53.670907Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-17T14:28:34.884128Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-17T14:28:34.942606Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/listas-de-exercicios/lista-2a-iemonit-gabarito.pdf" added="2025-09-17T14:29:37.343434Z" modified="2025-09-17T14:29:37.401362Z" visited="2025-09-17T14:29:37.343436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-17T14:29:37.343441Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-17T14:29:37.401358Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/INTECO/Livro/Cap7.pdf" added="2025-09-17T18:02:58.122669Z" modified="2025-09-17T18:02:58.170534Z" visited="2025-09-17T18:02:58.122670Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-17T18:02:58.122674Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-17T18:02:58.170532Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/material/unidade1/3.%20FIRMIN.pdf" added="2025-09-19T17:26:30.348819Z" modified="2025-09-19T17:28:42.991450Z" visited="2025-09-19T17:26:30.348821Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-19T17:28:42.923165Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-19T17:28:42.991448Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/material/unidade1/3.%20RODRIGUES.pdf" added="2025-09-19T17:26:30.348855Z" modified="2025-09-19T17:26:30.409597Z" visited="2025-09-19T17:26:30.348858Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-19T17:26:30.348860Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-19T17:26:30.409595Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/material/unidade1/4.%20Frazer_Ramo%20de%20Ouro(1).pdf" added="2025-09-19T17:26:30.348870Z" modified="2025-09-19T17:30:50.638920Z" visited="2025-09-19T17:26:30.348871Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-19T17:30:50.583296Z" count="3"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-19T17:30:50.638918Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/ELA1/cap1.pdf" added="2025-09-23T15:51:45.470747Z" modified="2025-09-23T15:54:49.302482Z" visited="2025-09-23T15:51:45.470749Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-23T15:54:49.248771Z" count="3"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-23T15:54:49.302480Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/ELA1/Cap2.pdf" added="2025-09-23T15:51:45.470779Z" modified="2025-09-23T15:54:49.302496Z" visited="2025-09-23T15:51:45.470779Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-23T15:54:49.248800Z" count="3"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-23T15:54:49.302495Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/ELA1/Cap7.pdf" added="2025-09-23T15:51:45.470789Z" modified="2025-09-23T15:54:49.302501Z" visited="2025-09-23T15:51:45.470789Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-23T15:54:49.248811Z" count="3"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-23T15:54:49.302500Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/ELA1/intro.pdf" added="2025-09-23T15:51:45.470804Z" modified="2025-09-23T15:54:49.302490Z" visited="2025-09-23T15:51:45.470805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-23T15:54:49.248822Z" count="3"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-23T15:54:49.302489Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/tela_prompt.txt" added="2025-09-23T15:53:37.737968Z" modified="2025-09-23T15:53:37.761480Z" visited="2025-09-23T15:53:37.737970Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-23T15:53:37.737975Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-23T15:53:37.761476Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/.local/share/fonts/fontawesome-free-7.0.1-desktop.zip" added="2025-09-27T20:18:08.101793Z" modified="2025-09-27T20:21:03.450772Z" visited="2025-09-27T20:18:08.101795Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-27T20:21:03.450761Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
