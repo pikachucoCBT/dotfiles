@@ -7,6 +7,9 @@
  <document uri="file:///home/tiago/dwm/dwm.c.rej" atime="1759010715292">
   <entry key="gedit-position" value="206"/>
  </document>
+ <document uri="file:///home/tiago/.dwm/config.h" atime="1759095572230">
+  <entry key="gedit-position" value="7038"/>
+ </document>
  <document uri="file:///home/tiago/dwm/dwm.c" atime="1759010968877">
   <entry key="gedit-encoding" value="UTF-8"/>
   <entry key="gedit-spell-language" value="pt_BR"/>
@@ -21,5 +24,10 @@
   <entry key="gedit-encoding" value="UTF-8"/>
   <entry key="gedit-spell-language" value="pt_BR"/>
   <entry key="gedit-position" value="9990"/>
+ </document>
+ <document uri="file:///home/tiago/.local/bin/statusbar/sb-battery" atime="1759093084704">
+  <entry key="gedit-encoding" value="UTF-8"/>
+  <entry key="gedit-spell-language" value="pt_BR"/>
+  <entry key="gedit-position" value="689"/>
  </document>
 </metadata>

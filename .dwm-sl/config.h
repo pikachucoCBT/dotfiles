@@ -154,9 +154,14 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_equal,  setgaps,        {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_equal,  setgaps,        {.i = 0  } },
 	{ MODKEY,                       XK_F5,     xrdb,           {.v = NULL } },
-	{ 0, XF86XK_AudioMute,          spawn,                  SHCMD("wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle; kill -50 $(pidof dwmblocks)") },
-	{ 0, XF86XK_AudioRaiseVolume,   spawn,                  SHCMD("wpctl set-volume @DEFAULT_AUDIO_SINK@ 0%- && wpctl set-volume @DEFAULT_AUDIO_SINK@ 3%+; kill -50 $(pidof dwmblocks)") },
-	{ 0, XF86XK_AudioLowerVolume,   spawn,                  SHCMD("wpctl set-volume @DEFAULT_AUDIO_SINK@ 0%+ && wpctl set-volume @DEFAULT_AUDIO_SINK@ 3%-; kill -50 $(pidof dwmblocks)") },
+	//{ 0, XF86XK_AudioMute,          spawn,                  SHCMD("wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle; kill -50 $(pidof dwmblocks)") },
+	//{ 0, XF86XK_AudioRaiseVolume,   spawn,                  SHCMD("wpctl set-volume @DEFAULT_AUDIO_SINK@ 0%- && wpctl set-volume @DEFAULT_AUDIO_SINK@ 3%+; kill -50 $(pidof dwmblocks)") },
+	//{ 0, XF86XK_AudioLowerVolume,   spawn,                  SHCMD("wpctl set-volume @DEFAULT_AUDIO_SINK@ 0%+ && wpctl set-volume @DEFAULT_AUDIO_SINK@ 3%-; kill -50 $(pidof dwmblocks)") },
+	
+	{ 0, XF86XK_AudioMute,          spawn, SHCMD("~/.local/bin/volume_command mute") },
+	{ 0, XF86XK_AudioRaiseVolume,   spawn, SHCMD("~/.local/bin/volume_command up") },
+	{ 0, XF86XK_AudioLowerVolume,   spawn, SHCMD("~/.local/bin/volume_command down") },
+
 	{ 0, XF86XK_AudioPrev,          spawn,                  {.v = (const char*[]){ "mpc", "prev", NULL } } },
 	{ 0, XF86XK_AudioNext,          spawn,                  {.v = (const char*[]){ "mpc",  "next", NULL } } },
 	{ 0, XF86XK_AudioPause,         spawn,                  {.v = (const char*[]){ "mpc", "pause", NULL } } },

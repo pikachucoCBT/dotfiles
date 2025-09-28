@@ -18,9 +18,7 @@
 
 // Define blocks for the status feed as X(icon, cmd, interval, signal).
 #define BLOCKS(X)             \
-    X("", "sb-internet", 	10, 1) \
-    X("", "sb-battery", 	10, 2) \
-    X("", "sb-cpu",		10, 3) \
+    X("", "sb-battery",         10, 1) \
     X("", "sb-brightness",	0,  20) \
     X("", "sb-memory",		10,4) \
     X("", "sb-volume",		0, 16)  \
