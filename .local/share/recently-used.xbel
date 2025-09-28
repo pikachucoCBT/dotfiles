@@ -232,4 +232,144 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/tiago/.local/share/fonts/Hack.zip" added="2025-09-27T20:57:15.122615Z" modified="2025-09-27T20:57:15.122630Z" visited="2025-09-27T20:57:15.122617Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-27T20:57:15.122622Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/dwm/patches/dwm-status2d-6.3.diff" added="2025-09-27T21:14:13.181607Z" modified="2025-09-27T21:14:13.181623Z" visited="2025-09-27T21:14:13.181609Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-27T21:14:13.181614Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/dwm/patches/dwm-status2d-xrdb-6.2.diff" added="2025-09-27T21:14:40.375354Z" modified="2025-09-27T21:14:40.375376Z" visited="2025-09-27T21:14:40.375356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-27T21:14:40.375361Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/dwm/dwm.c.rej" added="2025-09-27T21:20:54.224371Z" modified="2025-09-27T22:05:15.301509Z" visited="2025-09-27T21:20:54.224371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-reject"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-27T22:05:15.301507Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/dwm/dwm.c" added="2025-09-27T21:20:54.235326Z" modified="2025-09-27T22:09:27.474297Z" visited="2025-09-27T21:20:54.235326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-27T22:09:27.474295Z" count="28"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/dwm/config.def.h" added="2025-09-27T21:29:32.345054Z" modified="2025-09-27T22:00:39.807578Z" visited="2025-09-27T21:29:32.345054Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-27T22:00:39.807577Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/dwm/config.def.h.rej" added="2025-09-27T21:29:32.350734Z" modified="2025-09-27T21:59:31.539234Z" visited="2025-09-27T21:29:32.350734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-reject"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-27T21:59:31.539233Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/patches/dwm-status2d-xrdb-6.2.diff" added="2025-09-27T21:35:10.147831Z" modified="2025-09-27T21:35:10.147848Z" visited="2025-09-27T21:35:10.147834Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-27T21:35:10.147839Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/patches/dwm-status2d-6.3.diff" added="2025-09-27T21:35:20.397651Z" modified="2025-09-27T21:35:20.397668Z" visited="2025-09-27T21:35:20.397653Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-27T21:35:20.397659Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/dwm/drw.h.rej" added="2025-09-27T21:37:57.418766Z" modified="2025-09-27T21:37:57.418770Z" visited="2025-09-27T21:37:57.418767Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-reject"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-27T21:37:57.418768Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/dwm/drw.h" added="2025-09-27T21:37:57.428703Z" modified="2025-09-27T21:39:05.706772Z" visited="2025-09-27T21:37:57.428703Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-27T21:39:05.706770Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/dwm/config.h" added="2025-09-27T22:25:12.365708Z" modified="2025-09-27T22:31:14.993777Z" visited="2025-09-27T22:25:12.365709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-27T22:31:14.993774Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/.dwm/config.h" added="2025-09-27T22:25:25.816479Z" modified="2025-09-27T22:25:25.828507Z" visited="2025-09-27T22:25:25.816480Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-27T22:25:25.828499Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Imagens/Wallpapers/GU1bLtO.jpeg" added="2025-09-27T22:49:34.763924Z" modified="2025-09-27T22:49:34.763940Z" visited="2025-09-27T22:49:34.763926Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-27T22:49:34.763931Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

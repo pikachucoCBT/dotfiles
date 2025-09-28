@@ -3,10 +3,10 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 !! Appearance
-URxvt.font:            xft:DinaRemaster:antialias=true:size=12:style=Regular, xft:FiraCode:size=6
-URxvt.boldFont:        xft:DinaRemaster:antialias=true:size=12:style=Bold ,xft:FiraCode:size=6
-URxvt.italicFont:      xft:DinaRemaster:antialias=true:size=12:style=Italic ,xft:FiraCode:size=6
-URxvt.boldItalicfont:  xft:DinaRemaster:antialias=true:size=12:style=Bold Italic ,xft:FiraCode:size=6
+URxvt.font:            xft:DinaRemasterII:antialias=true:size=12:style=Regular, xft:FiraCode:size=6
+URxvt.boldFont:        xft:DinaRemasterII:antialias=true:size=12:style=Bold ,xft:FiraCode:size=6
+URxvt.italicFont:      xft:DinaRemasterII:antialias=true:size=12:style=Italic ,xft:FiraCode:size=6
+URxvt.boldItalicfont:  xft:DinaRemasterII:antialias=true:size=12:style=Bold Italic ,xft:FiraCode:size=6
 URxvt.letterSpace:     -1
 URxvt.lineSpace:       -1
 URxvt.geometry:        80x24
@@ -45,3 +45,29 @@ URxvt.keysym.C-minus:     resize-font:smaller
 URxvt.keysym.C-plus:      resize-font:bigger
 URxvt.keysym.C-equal:     resize-font:reset
 URxvt.keysym.C-question:  resize-font:show
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!! ^    COLORSCHEME    ^ !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+URxvt*foreground:  Foreground 
+URxvt*background:  Background 
+URxvt*cursorColor: CursorColor
+URxvt*color0: Color0 
+URxvt*color1: Color1 
+URxvt*color2: Color2 
+URxvt*color3: Color3 
+URxvt*color4: Color4 
+URxvt*color5: Color5 
+URxvt*color6: Color6 
+URxvt*color7: Color7 
+URxvt*color8: Color8 
+URxvt*color9: Color9 
+URxvt*color10:Color10 
+URxvt*color11:Color11 
+URxvt*color12:Color12 
+URxvt*color13:Color13 
+URxvt*color14:Color14 
+URxvt*color15:Color15 
+

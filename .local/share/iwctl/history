@@ -9,3 +9,8 @@ station wlan0 scan
 station wlan0 get-networks
 station wlan0 connect "moto g84"
 ping gnu.org
+station wlan0 scan
+station wlan0 get-networks
+station wlan0 connect moto g84
+station wlan0 connect "moto g84"
+station wlan0 connect "FEHT02"

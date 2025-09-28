@@ -2,5 +2,7 @@
 #include ".Xresources.d/dwm"
 #include ".Xresources.d/st"
 #include ".Xresources.d/dmenu"
+#include ".Xresources.d/rxvt-unicode"
+#include ".Xresources.d/xterm"
 
 Xft.dpi: 140

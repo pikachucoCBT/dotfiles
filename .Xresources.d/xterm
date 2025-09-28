@@ -1,0 +1,42 @@
+! Xterm - Solarized Dark Colors
+XTerm*background:  #002b36
+XTerm*foreground:  #839496
+XTerm*cursorColor: #93a1a1
+XTerm*pointerColor: #93a1a1
+XTerm*highlightColor: #586e75
+
+! Black + Bright Black
+XTerm*color0:  #073642
+XTerm*color8:  #002b36
+
+! Red + Bright Red
+XTerm*color1:  #dc322f
+XTerm*color9:  #cb4b16
+
+! Green + Bright Green
+XTerm*color2:  #859900
+XTerm*color10: #586e75
+
+! Yellow + Bright Yellow
+XTerm*color3:  #b58900
+XTerm*color11: #657b83
+
+! Blue + Bright Blue
+XTerm*color4:  #268bd2
+XTerm*color12: #839496
+
+! Magenta + Bright Magenta
+XTerm*color5:  #d33682
+XTerm*color13: #6c71c4
+
+! Cyan + Bright Cyan
+XTerm*color6:  #2aa198
+XTerm*color14: #93a1a1
+
+! White + Bright White
+XTerm*color7:  #eee8d5
+XTerm*color15: #fdf6e3
+
+XTerm*faceName: Hack
+XTerm*faceSize: 10
+XTerm*scrollBar: false

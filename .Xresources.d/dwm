@@ -1,10 +1,10 @@
 dwm.font: DinaRemasterII
 dwm.normbgcolor: Background
 dwm.normbordercolor: Background
-dwm.normfgcolor: Foreground
+dwm.normfgcolor: Color15
 dwm.selbgcolor: Background
 dwm.selbordercolor: Foreground
-dwm.selfgcolor: Foreground
+dwm.selfgcolor: Color7
 
 !!!!!!!!!!!!
 !! Colors !!
