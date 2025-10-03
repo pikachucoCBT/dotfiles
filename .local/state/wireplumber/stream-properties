@@ -1,4 +1,5 @@
 [stream-properties]
-Audio/Sink:node.name:auto_null={"channelVolumes":[1.000000, 1.000000], "mute":false, "volume":1.000000, "channelMap":["FL", "FR"]}
-Output/Audio:application.name:LibreWolf={"channelVolumes":[0.799991, 0.799991], "mute":false, "volume":1.000000, "channelMap":["FL", "FR"]}
-Output/Audio:application.name:Zen={"channelMap":["FL", "FR"], "mute":false, "channelVolumes":[1.000000, 1.000000], "volume":1.000000}
+Audio/Sink:node.name:auto_null={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false, "volume":1.000000}
+Output/Audio:application.name:LibreWolf={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false, "volume":1.000000}
+Output/Audio:application.name:Zen={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false, "volume":1.000000}
+Output/Audio:media.role:Notification={"volume":1.000000, "channelMap":["FL", "FR"], "mute":false, "channelVolumes":[1.000000, 1.000000]}

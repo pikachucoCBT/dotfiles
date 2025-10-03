@@ -156,13 +156,14 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/material/unidade1/4.%20Frazer_Ramo%20de%20Ouro(1).pdf" added="2025-09-19T17:26:30.348870Z" modified="2025-09-19T17:30:50.638920Z" visited="2025-09-19T17:26:30.348871Z">
+  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/material/unidade1/4.%20Frazer_Ramo%20de%20Ouro(1).pdf" added="2025-09-19T17:26:30.348870Z" modified="2025-09-30T22:17:26.278899Z" visited="2025-09-19T17:26:30.348871Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-19T17:30:50.583296Z" count="3"/>
-          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-19T17:30:50.638918Z" count="3"/>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-30T22:17:26.251747Z" count="6"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-30T22:17:26.278894Z" count="6"/>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-30T22:07:15.927429Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -421,6 +422,172 @@
         <bookmark:applications>
           <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-28T21:46:41.429067Z" count="1"/>
           <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-28T21:46:41.453485Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TSC1/TSC%20I%2020252.pdf" added="2025-09-29T01:04:55.100711Z" modified="2025-09-29T01:04:55.350349Z" visited="2025-09-29T01:04:55.100713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-29T01:04:55.100717Z" count="1"/>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-29T01:04:55.350345Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TSC1/aron-raymond-as-etapas-do-pensamento-sociologico-martins-fontes.pdf" added="2025-09-29T01:23:34.520941Z" modified="2025-09-29T01:23:34.520960Z" visited="2025-09-29T01:23:34.520943Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-29T01:23:34.520950Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Downloads/WhatsApp%20Image%202025-09-29%20at%2018.11.28.jpeg" added="2025-09-29T21:19:20.244559Z" modified="2025-09-29T21:19:20.494623Z" visited="2025-09-29T21:19:20.244560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-29T21:19:20.244564Z" count="1"/>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-29T21:19:20.494614Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Downloads/back.jpeg" added="2025-09-29T21:19:44.612477Z" modified="2025-09-29T21:20:43.485496Z" visited="2025-09-29T21:19:44.612477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-29T21:20:43.485494Z" count="2"/>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-29T21:20:43.463131Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Downloads/front.jpeg" added="2025-09-29T21:20:34.053444Z" modified="2025-09-29T21:20:34.076078Z" visited="2025-09-29T21:20:34.053447Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-29T21:20:34.053451Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-29T21:20:34.076074Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TSC1/Ensaio-TSC1-Tema.odt" added="2025-09-29T21:35:09.762320Z" modified="2025-09-29T21:35:09.778222Z" visited="2025-09-29T21:35:09.762320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-29T21:35:09.762323Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-29T21:35:09.778219Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/semin%C3%A1rio/Celso-Castro-Malinowski" added="2025-09-30T22:00:25.809533Z" modified="2025-09-30T22:00:43.766943Z" visited="2025-09-30T22:00:25.809535Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-30T22:00:25.809541Z" count="1"/>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-30T22:00:43.740412Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-30T22:00:43.766938Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/semin%C3%A1rio/Celso-Castro-Malinowski.pdf" added="2025-09-30T22:01:19.159144Z" modified="2025-09-30T22:01:19.187120Z" visited="2025-09-30T22:01:19.159146Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-30T22:01:19.159152Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-30T22:01:19.187114Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/material/unidade1/Frazer-ORAMODEOURO.epub" added="2025-09-30T22:09:49.203641Z" modified="2025-09-30T22:12:22.709252Z" visited="2025-09-30T22:09:49.203643Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/epub+zip"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-30T22:12:22.709242Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/semin%C3%A1rio/Frazer-O-Ramo-de-Ouro.pdf" added="2025-09-30T22:16:53.309692Z" modified="2025-09-30T22:17:40.028972Z" visited="2025-09-30T22:16:53.309695Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-30T22:16:53.309702Z" count="1"/>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-30T22:17:40.005560Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-30T22:17:40.028970Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/semin%C3%A1rio/Malinowski_Os_Argonautas_Cap3.pdf" added="2025-09-30T22:36:48.962243Z" modified="2025-09-30T22:50:10.829041Z" visited="2025-09-30T22:36:48.962245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-30T22:36:48.962250Z" count="1"/>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-30T22:50:10.815819Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-30T22:50:10.829038Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/semin%C3%A1rio/Malinowski_Os_Argonautas_Cap5.pdf" added="2025-09-30T22:49:41.287874Z" modified="2025-09-30T22:50:25.190143Z" visited="2025-09-30T22:49:41.287877Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-30T22:49:41.287885Z" count="1"/>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-30T22:50:25.171667Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-30T22:50:25.190138Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/Documentos/UNB/TA1/semin%C3%A1rio/Malinowski_Os_Argonautas_Cap22.pdf" added="2025-09-30T22:53:26.148912Z" modified="2025-09-30T22:53:41.137929Z" visited="2025-09-30T22:53:26.148915Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-09-30T22:53:26.148922Z" count="1"/>
+          <bookmark:application name="app.zen_browser.zen" exec="&apos;gio open %u&apos;" modified="2025-09-30T22:53:41.111745Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-09-30T22:53:41.137924Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/.config/alacritty/ayu_dark.toml" added="2025-10-03T00:18:09.354126Z" modified="2025-10-03T00:18:09.354143Z" visited="2025-10-03T00:18:09.354128Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/toml"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-10-03T00:18:09.354134Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tiago/.config/picom/picom.conf" added="2025-10-03T01:02:52.239269Z" modified="2025-10-03T01:02:52.239298Z" visited="2025-10-03T01:02:52.239271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2025-10-03T01:02:52.239277Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

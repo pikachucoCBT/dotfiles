@@ -3,8 +3,8 @@
 #define SESSION_FILE "/tmp/dwm-session"
 
 /* Constants */
-#define TERMINAL "st"
-#define TERMICLASS "St"
+#define TERMINAL "alacritty"
+#define TERMICLASS "alacritty"
 #define BROWSER "librewolf"
 
 #define CLICKABLE_BLOCKS 1
@@ -86,7 +86,7 @@ static const Rule rules[] = {
 	/* class     instance  title           tags mask  isfloating  isterminal  noswallow  monitor */
 	{ "Gimp",    NULL,     NULL,           0,         1,          0,           0,        -1 },
 	{ "Firefox", NULL,     NULL,           1 << 8,    0,          0,          -1,        -1 },
-	{ "St",      NULL,     NULL,           0,         0,          1,           0,        -1 },
+	{ TERMICLASS,      NULL,     NULL,           0,         0,          1,           0,        -1 },
 	{ NULL,      NULL,     "Event Tester", 0,         0,          0,           1,        -1 }, /* xev */
 };
 
@@ -118,7 +118,7 @@ static const Layout layouts[] = {
 /* commands */
 static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
 static const char *dmenucmd[] = { "j4-dmenu-desktop", NULL };
-static const char *termcmd[]  = { "st", NULL };
+static const char *termcmd[]  = { TERMINAL, NULL };
 
 #include <X11/XF86keysym.h>
 
